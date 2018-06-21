@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e10e7556035c46b791ab88bd0d9c245, type: 3}
+  m_Name: VehicleSettingData
+  m_EditorClassIdentifier: 
+  datas:
+  - CarID: 1
+    CarName: O'CONNER
+    CostType: 0
+    Price: 100
+    ShowStatus: 0
+  - CarID: 2
+    CarName: DOMINIC
+    CostType: 0
+    Price: 100
+    ShowStatus: 0
+  - CarID: 3
+    CarName: ROCK
+    CostType: 0
+    Price: 100
+    ShowStatus: 0
+  - CarID: 4
+    CarName: LIGHTNING
+    CostType: 0
+    Price: 500
+    ShowStatus: 0
+  - CarID: 5
+    CarName: SCHUMACHER
+    CostType: 0
+    Price: 800
+    ShowStatus: 0
+  - CarID: 6
+    CarName: OPTIMUS
+    CostType: 0
+    Price: 1000
+    ShowStatus: 0
+  - CarID: 7
+    CarName: WOLF
+    CostType: 0
+    Price: 800
+    ShowStatus: 0
+  - CarID: 8
+    CarName: TONY
+    CostType: 0
+    Price: 1000
+    ShowStatus: 0
+  - CarID: 9
+    CarName: TORNADO
+    CostType: 0
+    Price: 1000
+    ShowStatus: 0
+  - CarID: 10
+    CarName: LION
+    CostType: 0
+    Price: 500
+    ShowStatus: 0
+  - CarID: 11
+    CarName: SPEED
+    CostType: 0
+    Price: 800
+    ShowStatus: 0
+  - CarID: 12
+    CarName: LIGHT AMOR
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 13
+    CarName: MONSTER
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 14
+    CarName: BIG MONSTER
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 15
+    CarName: SHARP TRUCK
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 16
+    CarName: GREEN
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 17
+    CarName: DARKER
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 18
+    CarName: SMALL
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 19
+    CarName: FUEL TRUCK
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 20
+    CarName: MEDICAL TRUCK
+    CostType: 0
+    Price: 100
+    ShowStatus: 1
+  - CarID: 21
+    CarName: TROOP TRUCK
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 22
+    CarName: 'TROOP CAMION '
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 23
+    CarName: AMBULANCE
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 24
+    CarName: APC
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 25
+    CarName: ARMY TRUCK
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 26
+    CarName: ARMY TANKER
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 27
+    CarName: BIG MONSTER
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 28
+    CarName: ARMY UTE
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 29
+    CarName: BUGGY LIGHT
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 30
+    CarName: BUGGY DARK
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 31
+    CarName: THROTTLE
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 32
+    CarName: PUN CAR
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 33
+    CarName: ROCKET
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 34
+    CarName: FIREFIGHTING
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 35
+    CarName: FIRE THROTTLE
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 36
+    CarName: BEAST
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 37
+    CarName: ROCKET HANK
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 38
+    CarName: GENTLER
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 39
+    CarName: ELDER
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 40
+    CarName: HAMBURGER
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 41
+    CarName: SCHOOLER
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 42
+    CarName: SHARP TANK
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 43
+    CarName: ANTI-TRUCK
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 44
+    CarName: BIKE_1
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
+  - CarID: 45
+    CarName: BIKE_2
+    CostType: 0
+    Price: 100
+    ShowStatus: 2
